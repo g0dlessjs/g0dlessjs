@@ -32,27 +32,6 @@ Soy un **Desarrollador Web Frontend** autodidacta en constante formación. Me ap
 - **Dashboard Administrativo:** Desarrollando una aplicación completa con **Next.js** para profundizar en el manejo de estados complejos y optimización de rendimiento.
 - **Refactorización:** Migrando proyectos anteriores a **TypeScript** para mejorar la escalabilidad y robustez de mi código.
 
----
-
-### 🎯 Objetivos a corto plazo
-
-- [ ] Dominar el manejo de estados globales con **Redux Toolkit**.
-- [ ] Implementar pruebas unitarias básicas con **Jest** y **React Testing Library**.
-- [ ] Realizar mi primera contribución a un proyecto **Open Source**.
-- [ ] Conseguir mi primera oportunidad laboral como **Desarrollador Frontend Jr**.
-
----
-
-### 📩 Conectemos
-
-¡Siempre estoy abierto a charlar sobre tecnología y nuevas oportunidades!
-
-- 📧 **Email:** [tu-email@ejemplo.com](mailto:tu-email@ejemplo.com)
-- 💼 **LinkedIn:** [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- 🌐 **Portafolio:** [En desarrollo]
-
----
-
 <p align="center">
   <i>"El éxito es la suma de pequeños esfuerzos repetidos día tras día."</i>
 </p>

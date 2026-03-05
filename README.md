@@ -5,21 +5,17 @@
   <img src="https://img.shields.io/badge/Learning-Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 </p>
 
-Desarrollador **Frontend autodidacta** enfocado en crear interfaces modernas, limpias y funcionales.
-Actualmente construyendo proyectos para mejorar mis habilidades y crecer como desarrollador.
+💻 Desarrollador **Frontend autodidacta** enfocado en construir interfaces modernas, limpias y funcionales.
+
+🚀 Actualmente mejorando mis habilidades con **React, Next.js y TypeScript** mediante proyectos reales.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-**Frontend**
-HTML · CSS · JavaScript · TypeScript
-
-**Frameworks & UI**
-React · Next.js · Tailwind CSS
-
-**Tools**
-Node.js · Git · GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github" />
+</p>
 
 ---
 
@@ -27,6 +23,16 @@ Node.js · Git · GitHub
 
 * Construyendo un **Dashboard con Next.js**
 * Migrando proyectos a **TypeScript**
+* Aprendiendo **mejores prácticas de arquitectura frontend**
+
+---
+
+### 📊 GitHub Stats
+
+<p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanGalarce&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanGalarce&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 

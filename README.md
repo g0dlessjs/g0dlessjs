@@ -133,4 +133,4 @@ Aprendiendo mejores prácticas frontend
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,50:2563eb,100:0f172a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0B2E,50:4C1D95,100:6D28D9&height=120&section=footer"/>

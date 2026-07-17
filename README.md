@@ -118,7 +118,7 @@ Aprendiendo mejores prácticas frontend
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=g0dlessjs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -128,13 +128,10 @@ Aprendiendo mejores prácticas frontend
 
 ### 📫 Conecta conmigo
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/g0dlessjs">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </div>
 

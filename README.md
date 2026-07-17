@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:38bdf8&height=240&section=header&text=Juan%20Galarce&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12071F,50:2E1065,100:581C87&height=240&section=header&text=Juan%20Galarce&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Frontend%20Developer%20|%20React%20|%20Next.js%20|%20TypeScript&descAlignY=62&descSize=18"/>
 
 </div>
 
@@ -108,7 +108,7 @@ Aprendiendo mejores prácticas frontend
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=g0dlessjs&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
